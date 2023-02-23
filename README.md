@@ -1,4 +1,4 @@
-# Aplicativo de Criação e Listagem de Grupos
+# Aplicativo de Criação de lista de eventos
 Este é um aplicativo simples que permite aos usuários criar e gerenciar participantes de eventos. Com este aplicativo, os usuários podem criar e remover participantes;
 
 ## Funcionalidades
